@@ -1,0 +1,16 @@
+{
+    "name": "InfoQ",
+    "short_name": "IQ",
+    "description": "marketing and info Qube",
+    "id": "/?source=pwa",
+    "start_url": "/?source=pwa",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "https://drive.google.com/uc?id=1t1QzbedY15Je2RjDSV4xybBTwvgLaVTl",
+        "type": "png"
+      }
+    ]
+  }
+  
